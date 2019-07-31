@@ -15,8 +15,9 @@ NOTE:
 
 <img src=https://github.com/thedesignatedgeek/weathernow/assets/MainScreen.png width=600px>
 
-
 The reason I wrote this program was to prove that Python and Tkinter can produce programs that do not look like something out of the 1990s.
+
+This code has been tested under Python 3.6.8 . No attempt has been made to support any other version.  Once Python 3.8.0 is released, I will update the program to support 3.6.8, 3.7.x and 3.8.0.
 
 Changes in version 0.2
 
