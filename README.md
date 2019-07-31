@@ -29,6 +29,13 @@ Clicking on the alert icon will bring up a new screen that contains the alert in
 
 Clicking the 'Dismiss' button will return the user to the main screen.
 
+Before attempting to run the program, make sure that you have the 2 required libraries installed (pip3 install ...).  Then open the source file 'formMain_support.py' in your text editor or IDE and enter your DarkSky API secret key around line 688.  The line should currently look like...
+
+```
+api_key = 'enter your api key here'
+```
+
+Enter your API secret key in between the two '' characters.  Hopefully in one of the next versions, this can be done without having to change any code.
 
 
 Changes in version 0.2
