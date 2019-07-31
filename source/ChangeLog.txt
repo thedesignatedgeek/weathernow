@@ -1,0 +1,22 @@
+Change Log.txt
+28 July 2019 0.2
+-------------------------------------
+Added support for Weather Alerts (when alert is detected, special icon appears.  Single click on icon to see alert information.)
+When mouse is over alert icon, if there are no alerts, set cursor to standard arrow
+All external link labels change cursor to "trek"
+Added "Powered by Dark Sky" label per API Requirement
+Added support for Daily forecasts
+Added function to flatten all widgets on the main form
+
+
+ToDo...
+Tweak hourly block
+Flatten all widgets on the alert form
+Add Precip type and percent to current day
+Add Precip type and percent to hourly
+Add support for current language in weather alert popup
+Turn off majority of print statements
+Add command line options for load local, web, debug, version
+Allow for not saving new locations to locations file
+Clean up code
+

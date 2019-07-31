@@ -1,0 +1,18 @@
+A machine-readable text summary of this data point, suitable for selecting an icon for display. If defined, this property will have one of the following values: 
+x clear-day, 
+x clear-night, 
+x rain, 
+x snow, 
+sleet, 
+x wind, 
+x fog, 
+x cloudy, 
+partly-cloudy-day, or 
+partly-cloudy-night. (Developers should ensure that a sensible default is defined, as additional values, such as 
+hail, 
+thunderstorm, or 
+x tornado, may be defined in the future.)
+
+Assume a 50x50 image.
+
+Website: https://publicdomainvectors.org/en/long/free%20weather%20clipart%20images/8

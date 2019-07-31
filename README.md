@@ -19,6 +19,18 @@ The reason I wrote this program was to prove that Python and Tkinter can produce
 
 This code has been tested under Python 3.6.8 . No attempt has been made to support any other version.  Once Python 3.8.0 is released, I will update the program to support 3.6.8, 3.7.x and 3.8.0.
 
+Version 0.2 supports a pop-up window when a weather alert is detected.  The user is notified that there is an alert by an icon appearing just to the left of the current condition icon...
+
+![Alert Icon](assets/AlertIcon.png)
+
+Clicking on the alert icon will bring up a new screen that contains the alert information...
+
+![Alert Form](assets/AlertScreen.png)
+
+Clicking the 'Dismiss' button will return the user to the main screen.
+
+
+
 Changes in version 0.2
 
 * Added support for Weather Alerts (when alert is detected, special icon appears.  Single click on icon to see alert information.)
