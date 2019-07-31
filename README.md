@@ -13,7 +13,8 @@ NOTE:
 
 *_ You MUST obtain your own API key for the DarkSky Weather API.  I will not provide my key to you and the program will not run without a valid API key.  One can be obtained by going to https://darksky.net/dev/register and entering the required information.  You will be sent an email to verify your information.  Once you have accomplished this, you will be given your secret API key.  Keep this secret.  The account that you get will allow for up to 1000 API calls per day for free.  After that, they will charge you per call (at a very small rate).  The 1000 calls per day should be sufficient for any normal development and daily use._*
 
-![Main Screen]("/assets/MainScreen.png")
+<img src=https://raw.githubusercontent.com/thedesignatedgeek/weathernow/assets/MainScreen.png width=600px>
+
 
 The reason I wrote this program was to prove that Python and Tkinter can produce programs that do not look like something out of the 1990s.
 
